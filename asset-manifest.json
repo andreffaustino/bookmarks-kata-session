@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bookmarks-kata-session/static/css/main.1010fad7.chunk.css",
+    "main.js": "/bookmarks-kata-session/static/js/main.26876201.chunk.js",
+    "main.js.map": "/bookmarks-kata-session/static/js/main.26876201.chunk.js.map",
+    "runtime-main.js": "/bookmarks-kata-session/static/js/runtime-main.9aa9434b.js",
+    "runtime-main.js.map": "/bookmarks-kata-session/static/js/runtime-main.9aa9434b.js.map",
+    "static/js/2.bfb7044a.chunk.js": "/bookmarks-kata-session/static/js/2.bfb7044a.chunk.js",
+    "static/js/2.bfb7044a.chunk.js.map": "/bookmarks-kata-session/static/js/2.bfb7044a.chunk.js.map",
+    "index.html": "/bookmarks-kata-session/index.html",
+    "precache-manifest.9870d8edc3b28441d0b0ee04f3307972.js": "/bookmarks-kata-session/precache-manifest.9870d8edc3b28441d0b0ee04f3307972.js",
+    "service-worker.js": "/bookmarks-kata-session/service-worker.js",
+    "static/css/main.1010fad7.chunk.css.map": "/bookmarks-kata-session/static/css/main.1010fad7.chunk.css.map",
+    "static/js/2.bfb7044a.chunk.js.LICENSE.txt": "/bookmarks-kata-session/static/js/2.bfb7044a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/bookmarks-kata-session/static/media/beer.cf32229e.jpg",
+    "static/media/logo.svg": "/bookmarks-kata-session/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aa9434b.js",
+    "static/js/2.bfb7044a.chunk.js",
+    "static/css/main.1010fad7.chunk.css",
+    "static/js/main.26876201.chunk.js"
+  ]
+}
